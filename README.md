@@ -23,16 +23,10 @@ When I'm not working with data, I enjoy long walks, mindful conversations, cycli
       
 ## My Journey So Far :bike: :bike: :bike: :bike: 
 
-### Work Student: Data Scientist 🖥️ : SupplyOn AG
+### Work Student: Data Analyst 🖥️ : Biebelhausener Mühle seit 1647 GmbH
 
-Supported designing and implementing analytics solutions to enhance supply chain sustainability. 
-Developed AI solutions and APIs using Python and SQL, deployed via Azure DevOps in the Microsoft Azure cloud.
-Built scalable data preprocessing pipelines (Azure Data Factory)
-Refactored Azure Data Warehouse using SQL. 
-Designed concepts and requirements for product features, dashboards, and big data applications based on user stories. 
-Created process sketches and mockups to visualise workflows and solutions. (UML) 
-Built prototypes using Power BI, SQL, and Python within the Microsoft Azure Cloud tech stack. 
-Collaborated with product teams, development departments, and the AI Centre of Competence to drive innovation in supply chain sustainability solutions.
+Managed and maintained daily sales and transaction data, ensuring data accuracy and integrity for operational reporting and analysis.
+Analyzed customer purchasing patterns to support inventory planning and improve product availability.
 
 ## 🌱 Currently Learning 
 
