@@ -21,11 +21,18 @@ When I'm not working with data, I enjoy long walks, mindful conversations, cycli
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## My Journey So Far :bike: :bike: :bike: :bike: 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### Work Student: Data Scientist 🖥️ : SupplyOn AG
+
+Supported designing and implementing analytics solutions to enhance supply chain sustainability. 
+Developed AI solutions and APIs using Python and SQL, deployed via Azure DevOps in the Microsoft Azure cloud.
+Built scalable data preprocessing pipelines (Azure Data Factory)
+Refactored Azure Data Warehouse using SQL. 
+Designed concepts and requirements for product features, dashboards, and big data applications based on user stories. 
+Created process sketches and mockups to visualise workflows and solutions. (UML) 
+Built prototypes using Power BI, SQL, and Python within the Microsoft Azure Cloud tech stack. 
+Collaborated with product teams, development departments, and the AI Centre of Competence to drive innovation in supply chain sustainability solutions.
 
 ## 🌱 Currently Learning 
 
