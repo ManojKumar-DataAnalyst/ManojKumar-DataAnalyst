@@ -39,11 +39,23 @@ Communicated data insights through Power BI reports to support business decision
 Ensured 85%+ data accuracy through rigorous quality checks.
 Conducted data analysis using Power BI, resulting in a 5% improvement in team productivity.
 
+### Senior Data Technology Consultant 🖥️ : Virtusa Polaris
 
-## 🌱 Currently Learning 
+Extracted and validated enterprise data, ensuring accuracy and completeness during data retrieval and storage processes.
+Ensured accuracy and integrity of daily data ingestion in the Digital Reasoning system using SQL.
+Used Jira for release tracking and coordinated with offshore teams across project activities.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+### Senior Analyst 🖥️ : Temenos India
+
+Analyzed customer incidents and investigated underlying issues to support timely resolution.
+Developed and maintained SQL scripts to retrieve and manipulate data for analysis purposes.
+Created detailed process and knowledge documentation to support standardized procedures.
+
+### Senior Application Development Analyst 🖥️ : Accenture Services
+
+Optimized ETL jobs, improving processing efficiency and data processing speed by 20%.
+Conducted data migration of a legacy data system to the Teradata system, resulting in a 25% reduction in infrastructure costs and improved scalability for data processing and analysis.
+Created automated Excel macros for data extraction, resulting in a 10% time saving.
 
 ## 🛠️ Technical Skillset
 
