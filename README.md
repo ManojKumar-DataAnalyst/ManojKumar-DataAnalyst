@@ -41,7 +41,12 @@ When I'm not working with data, I enjoy long walks, mindful conversations, cycli
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=flat&logoColor=white" alt="DAX">
+  <img src="https://img.shields.io/badge/Data%20Modeling-607D8B?style=flat&logoColor=white" alt="Data Modeling">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Advanced Excel">
+  <img src="https://img.shields.io/badge/Macros-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel Macros">
+  <img src="https://img.shields.io/badge/PivotTables-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="PivotTables">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/A%2FB%20Testing-6A1B9A?style=flat&logoColor=white" alt="A/B Testing">
 </p>
