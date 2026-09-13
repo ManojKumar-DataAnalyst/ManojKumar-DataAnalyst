@@ -46,16 +46,28 @@ When I'm not working with data, I enjoy long walks, mindful conversations, cycli
   <img src="https://img.shields.io/badge/A%2FB%20Testing-6A1B9A?style=flat&logoColor=white" alt="A/B Testing">
 </p>
 
-#### Programming & Automation
+#### Programming & Data Analysis
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white" alt="Seaborn">
 </p>
 
-#### Business Intelligence & Analytics
+#### Software Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence">
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white" alt="MS Office">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/English-C2-1B5E20?style=flat" alt="English C2">
+  <img src="https://img.shields.io/badge/German-A2-1565C0?style=flat" alt="German A2">
+  <img src="https://img.shields.io/badge/Hindi-Native-6A1B9A?style=flat" alt="Hindi Native">
 </p>
