@@ -28,6 +28,18 @@ When I'm not working with data, I enjoy long walks, mindful conversations, cycli
 Managed and maintained daily sales and transaction data, ensuring data accuracy and integrity for operational reporting and analysis.
 Analyzed customer purchasing patterns to support inventory planning and improve product availability.
 
+### Work Student: Development Analyst 🖥️ : Thull Technical Services
+
+Developed Python scripts to automate ERP data workflows, reducing manual effort by 30%.
+Automated order generation processes, reducing response times by 25%.
+
+### Work Student: Data Analyst Associate 🖥️ : Randstad
+
+Communicated data insights through Power BI reports to support business decision-making and planning.
+Ensured 85%+ data accuracy through rigorous quality checks.
+Conducted data analysis using Power BI, resulting in a 5% improvement in team productivity.
+
+
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
